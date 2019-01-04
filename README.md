@@ -1,4 +1,4 @@
-# my-first-app
+# Nuxt-app
 
 > My spectacular Nuxt.js project
 
